@@ -22,7 +22,7 @@
   "devDependencies": {
     "eslint": "^6.1.0",
     "eslint-config-mosaic": "^0.1.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "parcel-bundler": "^1.12.3",
     "pre-commit": "^1.2.2",
     "pre-push": "^0.1.1"
